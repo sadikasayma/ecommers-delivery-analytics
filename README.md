@@ -121,7 +121,7 @@ python3 build_excel_workbook.py
 
 ## Building the Tableau Dashboard
 
-`data/order_fact_table.csv` is the source file — connect Tableau Public to it directly (Data > Connect to Data > Text File). See the accompanying step-by-step guide for the specific charts to build.
+In progress
 
 ## Skills Demonstrated
 
